@@ -25,5 +25,5 @@ Welcome to my GitHub profile! I'm an AI and machine learning enthusiast passiona
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Templar121&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
 ## 📫 How to Reach Me
-- [LinkedIn]([(https://www.linkedin.com/in/subhayan-mukherjee-0906b0274/)])
+- [LinkedIn](https://www.linkedin.com/in/subhayan-mukherjee-0906b0274/)
 - [Email](mailto:[subhayanmukherjee78@gmail.com])
