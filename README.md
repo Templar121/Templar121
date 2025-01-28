@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm an AI and machine learning enthusiast passiona
 
 ## Publications
 - Exoplanet Detection and Classification using a Semi-Supervised GAN Framework
-- **Subhayan Mukherjee**, Babul P. Tewari, Biplab K. Mondal
-- New Generation Computing, Springer Nature, Paper ID: NGCO-D-25-00060, SCI Indexed Journal 
+-- **Subhayan Mukherjee**, Babul P. Tewari, Biplab K. Mondal
+-- New Generation Computing, Springer Nature, Paper ID: NGCO-D-25-00060, SCI Indexed Journal 
 
 ## 🏆 Achievements
 - **Top Performer** in the NPTEL Deep Learning course.
