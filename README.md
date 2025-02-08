@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm an AI and machine learning enthusiast passionate about creating innovative solutions across various domains. My expertise includes deep learning, natural language processing, and explainable AI. I'm constantly exploring new technologies and methodologies to build impactful applications that solve real-world problems.
 
-## 🚀 What I Do
+## 🚀 My Works
 - **Exoplanet Detection:** Leveraging GANs and other models to identify exoplanets using the Kepler dataset.
 - **Solar Flare Prediction:** Developing CNN models for solar flare prediction using the SDO benchmark dataset.
 - **Sentiment Analysis:** Building end-to-end text sentiment analysis systems, integrating both backend and frontend technologies like React and Node.js.
