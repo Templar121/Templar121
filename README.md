@@ -10,9 +10,10 @@ Welcome to my GitHub profile! I'm an AI and machine learning enthusiast passiona
 - **AI-driven Solutions:** Solving complex problems across various domains by applying cutting-edge AI technologies.
 
 ## Publications
-- **Exoplanet Detection and Classification using a Semi-Supervised GAN Framework**
--- **Subhayan Mukherjee**, Babul P. Tewari, Biplab K. Mondal
--- New Generation Computing, Springer Nature, Paper ID: NGCO-D-25-00060, SCI Indexed Journal 
+- ** Artificial Intelligence powered chatbots for the speech disabled and hearing impaired using Feedforward Neural Network**
+-- **Subhayan Mukherjee**, Anusuya Chatterjee, Khushbu Chandrakar, Sandeep Saxema
+-- 1st International Conference on Advances in Computing, Communication and Networking (ICAC2N), 2025
+-- DOI : https://doi.org/10.1109/icac2n63387.2024.10894803
 
 ## 🏆 Achievements
 - **Top Performer** in the NPTEL Deep Learning course.
