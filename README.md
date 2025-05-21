@@ -3,11 +3,11 @@
 Welcome to my GitHub profile! I'm an AI and machine learning enthusiast passionate about creating innovative solutions across various domains. My expertise includes deep learning, natural language processing, and explainable AI. I'm constantly exploring new technologies and methodologies to build impactful applications that solve real-world problems.
 
 ## 🚀 My Works
-- **Exoplanet Detection:** Leveraging GANs and other models to identify exoplanets using the Kepler dataset.
-- **Solar Flare Prediction:** Developing CNN models for solar flare prediction using the SDO benchmark dataset.
-- **Sentiment Analysis:** Building end-to-end text sentiment analysis systems, integrating both backend and frontend technologies like React and Node.js.
-- **AI Voice Assistants:** Creating end-to-end pipelines for voice assistants, integrating speech-to-text, text-to-speech, and natural language understanding.
-- **AI-driven Solutions:** Solving complex problems across various domains by applying cutting-edge AI technologies.
+
+- **[SenSense. AI](https://sensenseai.netlify.app/)**: Developed a backend based sentiment analysis applications that combine robust backend APIs with explainability features using XAI.
+- **[Carbon Footprint Estimation](https://carbonfootprintemission.netlify.app/)**:  A web-based application that estimates carbon footprint based on user inputs using a FastAPI backend and a machine learning model trained to predict environmental impact.
+- **[Indian Rental Prices Prediction](https://india-rental-prices.netlify.app/)**:  A deployed machine learning app that predicts house rental prices in Indian cities using CatBoost and FastAPI, integrated with a user-friendly frontend.
+
 
 ## Publications
 - ** Artificial Intelligence powered chatbots for the speech disabled and hearing impaired using Feedforward Neural Network**
