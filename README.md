@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an AI and machine learning enthusiast passiona
 
 ## Publications
 - ** Artificial Intelligence powered chatbots for the speech disabled and hearing impaired using Feedforward Neural Network**
--- **Subhayan Mukherjee**, Anusuya Chatterjee, Khushbu Chandrakar, Sandeep Saxema
+-- **Subhayan Mukherjee**, Anusuya Chatterjee, Khushbu Chandrakar, Sandeep Saxena
 -- 1st International Conference on Advances in Computing, Communication and Networking (ICAC2N), 2025
 -- DOI : https://doi.org/10.1109/icac2n63387.2024.10894803
 
