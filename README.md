@@ -22,9 +22,10 @@ Welcome to my GitHub profile! I'm an AI and machine learning enthusiast passiona
 - Developed a comprehensive portfolio of AI and machine learning projects with a focus on real-world applications.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, JavaScript (Node.js), HTML/CSS
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Coqui TTS, Hugging Face, React, Tailwind CSS
-- **Other Tools:** Git, Docker, Graphviz, Three.js, OpenGLTF
+- **Languages:** Python, Java
+- **Frameworks & Libraries:** FastAPI, Django, TensorFlow, PyTorch, Keras, Scikit-learn, XGBoost, OpenCV, pandas, Numpy, Matplotlib, Seaborn
+- **Tools & Platforms:** Git, GitHub, Docker (basic), CI/CD (basic), Microsoft Azure (basic), Google Colab, Netlify, Render, Jupyter Notebook, VS Code, LaTeX, Postman, Figma, MongoDB 
+- **Domains & Professional Skills:** NLP, Computer Vision, Explainable AI, GANs, LLMs, Technical Writing, DSA, OOP, Collaboration, Presentation, Research Translation
 
 ## 📈 Stats
 
